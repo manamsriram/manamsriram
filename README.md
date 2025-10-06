@@ -25,8 +25,8 @@ I'm passionate about building resilient, scalable software—involving distribut
 - 🚀 **Current Focus:**  
   - Custom hypervisor builds using C++ and UTM
   - Real-time distributed editors and concurrency algorithms
-  - Intelligent document and data processing (AI-PDF-Reader, Log Summarizer)
-  - SDN controller & video encoding for large-scale systems
+  - SDN controller & NFV applications
+  - Mobile Application to track grocery inventory
 
 - 🌐 **Connect:**  
   [LinkedIn](https://www.linkedin.com/in/sri-ram-mannam-8b61aa228/)
