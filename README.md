@@ -27,15 +27,6 @@ I'm passionate about building resilient, scalable software—involving distribut
   - Real-time distributed editors and concurrency algorithms
   - Intelligent document and data processing (AI-PDF-Reader, Log Summarizer)
   - SDN controller & video encoding for large-scale systems
-- 📚 **Selected Projects:**  
-  - [baby_hypervisor](https://github.com/manamsriram/baby_hypervisor) — Building a modular C++ hypervisor (UTM-powered Ubuntu VM)  
-  - [Distributed Collaborative Document Editor](https://github.com/manamsriram/Distributed_Document_Editing) - Starting to build out a platform like GoogleDocs
-  - [AI-PDF-Reader](https://github.com/manamsriram/AI-PDF-Reader) — Natural language doc Q&A, info retrieval
-  - [California Water Usage ML Dashboard](https://github.com/manamsriram/cmpe255_final_project) 
-  - [Video Encoding System](https://github.com/manamsriram/video_encoding_cmpe275) - Encoding vidoes using a distributed architecture of worker and leader nodes
-  - [Restaurant-Finder-Application](https://github.com/manamsriram/Restaurant-Finder-Application) — Full-stack search and retrieval (Python)
-  - [Hotel-management-system](https://github.com/manamsriram/Hotel-management-system) — Complete Java/SQL web platform
-  - [Stock-Analyzer-Bot](https://github.com/manamsriram/Stock-Analyzer-Bot) — LLM-based insights and NLP analytics
 
 - 🌐 **Connect:**  
   [LinkedIn](https://www.linkedin.com/in/sri-ram-mannam-8b61aa228/)
