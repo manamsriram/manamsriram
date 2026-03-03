@@ -23,10 +23,8 @@ I'm passionate about building resilient, scalable software—involving distribut
 
 - 👔 **Education:** MS Software Engineering @ San Jose State University, CA | BTech Information Technology, India
 - 🚀 **Current Focus:**  
-  - Custom hypervisor builds using C++ and UTM
+  - Rideshare Application for students@SJSU
   - Real-time distributed editors and concurrency algorithms
-  - SDN controller & NFV applications
-  - Mobile Application to track grocery inventory
 
 - 🌐 **Connect:**  
   [LinkedIn](https://www.linkedin.com/in/sri-ram-mannam-8b61aa228/)
