@@ -5,7 +5,7 @@
 
 <div align="center">
 
-**MS Software Engineering @ San Jose State University | BTech Information Technology, India**
+**MS, Software Engineering @ San Jose State University | BTech, Information Technology, India**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sri-ram-mannam-8b61aa228/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manamsriram@gmail.com)
